@@ -18,4 +18,4 @@ Para reservar un horario para cursos, usted debe:
 1) Verificar la disponibilidad.
 2) Hacer un pago móvil a los siguientes datos: 0174 (Banplus) / 8278411 / 04249744352
 3) Enviar un mensaje de whatsapp al 04249744352 donde indique horario, materia y contenido a estudiar.
-$v = \frac{d}{t}$
+
