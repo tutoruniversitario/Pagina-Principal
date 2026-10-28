@@ -12,3 +12,11 @@
 | **04:00 p.m. - 05:00 p.m.** |Disponible |Disponible |Disponible | | | | |
 | **05:00 p.m. - 06:00 p.m.** |Disponible |Disponible |Disponible | | | | |
 | **06:00 p.m. - 07:00 p.m.** |Disponible |Disponible |Disponible | | | | |
+
+Este horario se actualiza en tiempo real.
+Para reservar un horario para cursos, usted debe:
+1) Verificar la disponibilidad.
+2) Hacer un pago móvil a los siguientes datos:
+   0174 (Banplus)
+   8278411
+   04249744352
