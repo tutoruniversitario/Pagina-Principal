@@ -8,7 +8,7 @@
 | **12:00 p.m. - 01:00 p.m.** |Física III | | | | | | |
 | **01:00 p.m. - 02:00 p.m.** |Matemática I | | | | | | |
 | **02:00 p.m. - 03:00 p.m.** |Matemática I | | | | | | |
-| **03:00 p.m. - 04:00 p.m.** |Disponible | | | | | | |
+| **03:00 p.m. - 04:00 p.m.** |<span style="color:red">**Disponible**</span> | | | | | | |
 | **04:00 p.m. - 05:00 p.m.** |Disponible | | | | | | |
 | **05:00 p.m. - 06:00 p.m.** |Disponible | | | | | | |
 | **06:00 p.m. - 07:00 p.m.** |Disponible | | | | | | |
