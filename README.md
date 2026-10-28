@@ -1,3 +1,5 @@
+Semana del lunes 25/10/2026 al domingo 01/11/2026.
+
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **07:00 a.m. - 08:00 a.m.** |Disponible |Disponible |Disponible |Matemática I |Disponible |Disponible |Disponible |
