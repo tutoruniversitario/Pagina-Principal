@@ -1,3 +1,5 @@
+<span style="color: red;">Este texto estará en rojo</span>
+
 # Semana del lunes 25/10/2026 al domingo 01/11/2026.
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
